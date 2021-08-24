@@ -30,7 +30,7 @@
 ```bash
   [tmax@1d8e135860f0 ~]$ koji image-build --config ./configs/ovirt-appliance-koji.cfg --scratch
 ```
-* [koji-web](192.168.9.54/koji)에서 작업 현황 및 결과물 확인
+* [koji-web](http://192.168.9.54/koji)에서 작업 현황 및 결과물 확인
 
 
 
